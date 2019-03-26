@@ -1,5 +1,5 @@
 class Person
-
+  true
 end
 
 adele_goldberg = Person.new
